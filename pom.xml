@@ -23,11 +23,6 @@
 		<system>JIRA</system>
 		<url>http://tickets.openmrs.org/</url>
 	</issueManagement>
-<properties>
-  <sonar.projectKey>ghfaha_openmrs-core</sonar.projectKey>
-  <sonar.organization>ghfaha</sonar.organization>
-  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
-</properties>
 	<licenses>
 		<license>
 			<name>Mozilla Public License 2.0 with Healthcare Disclaimer</name>
